@@ -1,0 +1,1 @@
+I made 2 exams as practice exams for csc 230 at uvic, this term (fall 2024). I used old zastre midterms and claude to create the content and converted it to pdfs labelled accordingly.  Pls message/ lmk if any error is noticed
